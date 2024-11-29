@@ -7,7 +7,7 @@ $(window).on('scroll', function() {
         }
 });
 
-// Hamburger menu functionality
+// Hamburger menu functionalitysss
 const navSlide = () => {
         const hamburger = document.querySelector(".hamburger");
         const navbar = document.querySelector(".nav-bar");
